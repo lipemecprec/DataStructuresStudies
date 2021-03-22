@@ -1,5 +1,5 @@
 // https://www.spoj.com/problems/BSEARCH1/
-// Solved
+// On going
 
 #include <stdio.h>
 
