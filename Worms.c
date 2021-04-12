@@ -2,19 +2,21 @@
 
 #include <stdio.h>
 
-int n, m;
-int a[10 * *6 + 10], qa[10 * *6 + 10];
+int main() {
+    int n, m;
+    int a[10 * *6 + 10], qa[10 * *6 + 10];
 
-scanf("%d", &n);
+    scanf("%d", &n);
 
-for (int i = 0; i < n; i++)
-{
-    scanf("%d", &n[i]);
-}
+    for (int i = 0; i < n; i++)
+    {
+        scanf("%d", &n[i]);
+    }
 
-scanf("%d", &m);
+    scanf("%d", &m);
 
-for (int i = 0; i < m; i++)
-{
-    scanf("%d", &q[i]);
+    for (int i = 0; i < m; i++)
+    {
+        scanf("%d", &q[i]);
+    }
 }
